@@ -1,0 +1,31 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "kelvinmbwilo",
+        "email": "kelvinmbwilo@gmial.com"
+      },
+      "libraryName": {
+        "original": "dhis-highchart-angular-service",
+        "camelized": "dhisHighchartAngularService",
+        "dasherized": "dhis-highchart-angular-service",
+        "slugified": "dhis-highchart-angular-service",
+        "parts": [
+          "dhis",
+          "highchart",
+          "angular",
+          "service"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": true,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": true,
+      "includeAngularModuleCookies": true,
+      "includeAngularModuleSanitize": true,
+      "librarySrcDirectory": "src/dhis-highchart-angular-service",
+      "libraryUnitTestDirectory": "test/unit/dhis-highchart-angular-service",
+      "libraryUnitE2eDirectory": "test/e2e/dhis-highchart-angular-service"
+    }
+  }
+}
